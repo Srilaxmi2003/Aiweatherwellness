@@ -109,7 +109,7 @@ export default function Home() {
             target="_blank"
             className=" text-green-300 font-bold"
           >
-            SriLaxmi
+            Srilaxmi
           </a>
         </p>
       </footer>
